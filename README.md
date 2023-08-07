@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad-Shahzaib-ktk
+- 👋 Hi, I am Shahzaib Khattak. My father's name is Shahid Raza, and I am from Pakistan.
 - 👀 I’m interested in astronomy, Cosmology, Programming, Gaming, History, Mythology, Folklore and BodyBuilding! Weird Combination, Huh!
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on this, Will answer this in the future!
